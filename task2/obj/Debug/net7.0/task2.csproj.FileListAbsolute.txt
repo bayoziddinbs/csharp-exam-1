@@ -1,0 +1,15 @@
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/bin/Debug/net7.0/task2
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/bin/Debug/net7.0/task2.deps.json
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/bin/Debug/net7.0/task2.runtimeconfig.json
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/bin/Debug/net7.0/task2.dll
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/bin/Debug/net7.0/task2.pdb
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/obj/Debug/net7.0/task2.csproj.AssemblyReference.cache
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/obj/Debug/net7.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/obj/Debug/net7.0/task2.AssemblyInfoInputs.cache
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/obj/Debug/net7.0/task2.AssemblyInfo.cs
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/obj/Debug/net7.0/task2.csproj.CoreCompileInputs.cache
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/obj/Debug/net7.0/task2.dll
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/obj/Debug/net7.0/refint/task2.dll
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/obj/Debug/net7.0/task2.pdb
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/obj/Debug/net7.0/task2.genruntimeconfig.cache
+/Users/bayoziddinboboev/Desktop/csharp-course /exam-1/task2/obj/Debug/net7.0/ref/task2.dll
