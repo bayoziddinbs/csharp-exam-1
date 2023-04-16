@@ -3,11 +3,6 @@ public class Circle
     double radius;
     double pi = 3.14;
 
-    public Circle(double radius)
-    {
-        this.radius = radius;
-    }
-
     public double GetArea()
     {
         return pi * radius * radius;
